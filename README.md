@@ -122,7 +122,7 @@ https://github.com/abhisirbot/WhatsAsenaDuplicated/edit/master/README.md
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=ASENA;;;eyJjbGllbnRJRCI6Ik5iZTJtU2h4Wk82TVVYUnhTM3IrZGc9PSIsInNlcnZlclRva2VuIjoiMUBkdEhjSnhDVmthZ2Z1VXNCSU1qMGtWTFVveFNCNUVMcFZYdTVtMkRLcytlU2JmN3BZSG1tMGpQRDBZRWxnQXZYcUNldnJpQUl6SW5NM1E9PSIsImNsaWVudFRva2VuIjoiTVZwT3BQUlowbmpMTjlCMDBPSzgyMStSeHZ1bytOai9qa3JraUFleTBGdz0iLCJlbmNLZXkiOiI0a1hyY09jUXVxcVRYc2RyNUE3L2JhaTVjS0F1M2dCdXd1emQ4MG9ZSXE4PSIsIm1hY0tleSI6IlA2bWxRTTNxSmwxS3l4N0xTTmp6ekZnS0RJTGtuK2h2bURIRG5ScHB6SzQ9In0=
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
